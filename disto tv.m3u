@@ -1,4 +1,5 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠",
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/poster_20240206_185306.jpg" group-title="Featured",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-filmigaane/poster_20240206_190033.jpg" group-title="Featured",Shemaroo Filmigaane
