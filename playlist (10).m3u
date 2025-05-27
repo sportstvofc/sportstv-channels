@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,JAMMUNA TV
+#EXTGRP:BANGLADESHI NEWS
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1,SOMOY TV
+#EXTGRP:BANGLADESHI NEWS
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
